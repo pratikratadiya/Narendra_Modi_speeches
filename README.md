@@ -9,10 +9,14 @@ A collection of the speeches delivered by Mr. Narendra Modi, the current Prime M
 For further analysis, a transliterated version of the Hindi speeches is also provided.
 
 ## Repository overview
-
-|_ Raw speech transcripts: Original raw transcripts of the speeches
-|_ Preprocessing notebooks: Jupyter notebooks containing the code used for preprocessing the raw speech transcripts
-|_ Processed speech transcripts: Final preprocessed transcripts of speeches in English and Hindi (Devanagari and Transliterated)
+```
+├── Preprocessing notebooks: Jupyter notebooks containing the code used 
+                             for preprocessing the raw speech transcripts
+├── Processed speech transcripts: Final preprocessed transcripts of speeches
+                              in English and Hindi (Devanagari and Transliterated)
+├── Raw speech transcripts: Original raw transcripts of the speeches
+└── README.md
+```
 
 ## Dependencies
 
